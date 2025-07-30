@@ -1,3 +1,8 @@
+/*
+This program can calculate compound interest
+Date: 30th july 2025
+Author: Adityasinh Sodha
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
