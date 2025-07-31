@@ -18,7 +18,7 @@ void main()
 	printf("input n: ");
 	scanf("%f",&n);
 
-	si = (p * r * n)/100
+	si = (p * r * n)/100;
 	printf("intrest = %2f",si);
 	getch();
 
