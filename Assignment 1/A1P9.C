@@ -1,5 +1,5 @@
 /*
-This program can print sum of 3 numbers that was inputed by user
+This program can print sum of 3 digits that was inputed by user
 Date: 31th july 2025
 Author: Adityasinh Sodha
 */
@@ -8,17 +8,22 @@ Author: Adityasinh Sodha
 
 void main()
 {
-    int a, b, c, d;
+    int num=0, digit=0, sum=0;
     clrscr();
-    printf("\n Input first number: ");
-    scanf("%d",&a);
-    printf("\n Input second number: ");
-    scanf("%d",&b);
-    printf("\n Input third number: ");
-    scanf("%d",&c);
-    d = a + b + c;
-    printf("\n Sum of this numbers are: %d",d);
+    printf("\n input a number ");
+    scanf("%d",&num);
+    digit = num % 10;
+    sum = sum + digit;
+    num = num/10;
+    digit = num % 10;
+    sum = sum + digit;
+    num = num/10;
+    digit = num % 10;
+    sum = sum + digit;
+    num = num/10;
+    printf("\n sum of digits = %d",sum);
     getch();
+
 
 }
 
