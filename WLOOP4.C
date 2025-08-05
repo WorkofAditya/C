@@ -1,6 +1,6 @@
 /*
 This program can print 1 to 5 digits 5 times
-Date: 5 Aug 2025
+Date: 5th Aug 2025
 Author: Adityasinh Sodha
 */
 #include<stdio.h>
@@ -28,5 +28,6 @@ void main ()
  }
     getch();
  }
+
 
 
