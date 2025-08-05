@@ -1,10 +1,13 @@
+/*
+This program can print 1 to 5 digits 5 times
+Date: 5 Aug 2025
+Author: Adityasinh Sodha
+*/
 #include<stdio.h>
 #include<conio.h>
 
 void main ()
 {
-    // variable declarartion
-    // starting value (intial or intitialization)
     int x=1,y=1;
     clrscr();
 
@@ -25,4 +28,5 @@ void main ()
  }
     getch();
  }
+
 
