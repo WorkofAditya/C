@@ -1,3 +1,8 @@
+/*
+This program can detect positive and negative number via user input
+Date: 5th Aug 2025
+Author: Adityasinh Sodha
+*/
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -20,4 +25,5 @@ void main()
 		printf("%d number is zero ",x);
 	}
 	getch();
+
 }
