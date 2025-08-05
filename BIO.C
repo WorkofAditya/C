@@ -1,4 +1,4 @@
-//this is bio
+
 #include<stdio.h>
 #include<conio.h>
 
