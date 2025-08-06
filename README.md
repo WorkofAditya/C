@@ -1,4 +1,4 @@
-# C
+<!-- # C
 List and Description of all C programs
 
 | Filename | Description |
@@ -28,3 +28,4 @@ List and Description of all C programs
 | [WLOOP5.C](https://github.com/WorkofAditya/C/blob/main/WLOOP5.C) | Prints a countdown from 25 to 5 in steps of 5, repeated 9 times using nested while loops. |
 
 ---
+-->
