@@ -1,5 +1,6 @@
-<!-- # C
+# C
 List and Description of all C programs
+
 
 | Filename | Description |
 | -------- | ----------- |
@@ -16,7 +17,7 @@ List and Description of all C programs
 | [GRATE4.C](https://github.com/WorkofAditya/C/blob/main/GRATE4.C) | Determines and prints the greatest among three numbers using nested if-else conditions. |
 | [GREAT3.C](https://github.com/WorkofAditya/C/blob/main/GREAT3.C) | Finds the greatest of four user-entered numbers using nested if statements. |
 | [GREAT4.C](https://github.com/WorkofAditya/C/blob/main/GREAT4.C) | Calculates simple interest based on principal, rate, and time entered by the user. |
-| [INTREST.C](https://github.com/WorkofAditya/C/blob/main/INTREST.C) | Performs and displays results of basic arithmetic operations: addition, subtraction, multiplication, and division. 
+| [INTREST.C](https://github.com/WorkofAditya/C/blob/main/INTREST.C) | Performs and displays results of basic arithmetic operations: addition, subtraction, multiplication, and division. |
 | [MATH.C](https://github.com/WorkofAditya/C/blob/main/MATH.C) | Compares two numbers using nested ternary operators and prints whether the first is greater, smaller, or equal. |
 | [OPERATOR2.C](https://github.com/WorkofAditya/C/blob/main/OPERATOR2.C) | Determines the greatest of three numbers using nested ternary operators based on user input. |
 | [OPERATOR3.C](https://github.com/WorkofAditya/C/blob/main/OPERATOR3.C) | Calculates and displays the result of raising one number to the power of another using `pow()`. |
@@ -28,4 +29,4 @@ List and Description of all C programs
 | [WLOOP5.C](https://github.com/WorkofAditya/C/blob/main/WLOOP5.C) | Prints a countdown from 25 to 5 in steps of 5, repeated 9 times using nested while loops. |
 
 ---
--->
+
