@@ -27,6 +27,7 @@ List and Description of all C programs
 | [WLOOP3.C](https://github.com/WorkofAditya/C/blob/main/WLOOP3.C) | Generates and prints a sequence of numbers using a while loop with cumulative addition. |
 | [WLOOP4.C](https://github.com/WorkofAditya/C/blob/main/WLOOP4.C) | Prints the numbers 1 to 5 on five separate lines using nested while loops. |
 | [WLOOP5.C](https://github.com/WorkofAditya/C/blob/main/WLOOP5.C) | Prints a countdown from 25 to 5 in steps of 5, repeated 9 times using nested while loops. |
+| [WLOOP5.C](https://github.com/WorkofAditya/C/blob/main/WLOOP6.C) | Prints a right-angled triangle pattern of numbers using nested while loops. |
 
 ---
 
