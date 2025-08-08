@@ -1,5 +1,5 @@
 # C
-List and Description of all C programs
+Index of all C programs
 
 
 | Filename | Description |
