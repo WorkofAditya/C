@@ -29,7 +29,10 @@ Index of all C programs
 | [WLOOP5.C](https://github.com/WorkofAditya/C/blob/main/WLOOP5.C) | Prints a countdown from 25 to 5 in steps of 5, repeated 9 times using nested while loops. |
 | [WLOOP6.C](https://github.com/WorkofAditya/C/blob/main/WLOOP6.C) | Prints a right-angled triangle pattern of numbers using nested while loops. |
 | [FORLOOP.C](https://github.com/WorkofAditya/C/blob/main/FORLOOP.C) | Prints numbers from 9 to 1 in steps of 2, repeated 7 times using nested for loops. |
+| [DWLOOP.C](https://github.com/WorkofAditya/C/blob/main/DWLOOP.C) | Takes numbers from the user, multiplies them, and stops when the user enters 0. |
+
 
 ---
+
 
 
