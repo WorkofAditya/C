@@ -30,6 +30,10 @@ Index of all C programs
 | [WLOOP6.C](https://github.com/WorkofAditya/C/blob/main/WLOOP6.C) | Prints a right-angled triangle pattern of numbers using nested while loops. |
 | [FORLOOP.C](https://github.com/WorkofAditya/C/blob/main/FORLOOP.C) | Prints numbers from 9 to 1 in steps of 2, repeated 7 times using nested for loops. |
 | [DWLOOP.C](https://github.com/WorkofAditya/C/blob/main/DWLOOP.C) | Takes numbers from the user, multiplies them, and stops when the user enters 0. |
+| [UDF1.C](https://github.com/WorkofAditya/C/blob/main/UDF1.C) | Shows the basic use of a user-defined function (UDF) to print a design multiple times. |
+| [UDF2.C](https://github.com/WorkofAditya/C/blob/main/UDF2.C) | Performs arithmetic operations using user-defined functions, including addition, subtraction, and multiplication. |
+
+
 
 
 ---
