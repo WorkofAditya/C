@@ -32,9 +32,7 @@ Index of all C programs
 | [DWLOOP.C](https://github.com/WorkofAditya/C/blob/main/DWLOOP.C) | Takes numbers from the user, multiplies them, and stops when the user enters 0. |
 | [UDF1.C](https://github.com/WorkofAditya/C/blob/main/UDF1.C) | Shows the basic use of a user-defined function (UDF) to print a design multiple times. |
 | [UDF2.C](https://github.com/WorkofAditya/C/blob/main/UDF2.C) | Performs arithmetic operations using user-defined functions, including addition, subtraction, and multiplication. |
-
-
-
+| [UDF3.C](https://github.com/WorkofAditya/C/blob/main/UDF3.C) | Performs arithmetic operations using user-defined functions, in shorter way. |
 
 ---
 
