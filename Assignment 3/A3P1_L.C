@@ -1,5 +1,5 @@
 /*
-This program can print (A B C D ..... Z) using do while loop
+This program can print (a b c d ..... z) using do while loop
 Date: 21st Aug 2025
 Author: Adityasinh Sodha
 */
