@@ -33,6 +33,7 @@ Index of all C programs
 | [UDF1.C](https://github.com/WorkofAditya/C/blob/main/UDF1.C) | Shows the basic use of a user-defined function (UDF) to print a design multiple times. |
 | [UDF2.C](https://github.com/WorkofAditya/C/blob/main/UDF2.C) | Performs arithmetic operations using user-defined functions, including addition, subtraction, and multiplication. |
 | [UDF3.C](https://github.com/WorkofAditya/C/blob/main/UDF3.C) | Performs arithmetic operations using user-defined functions, in shorter way. |
+| [ARRAY.C](https://github.com/WorkofAditya/C/blob/main/ARRAY.C) | Takes five numbers from the user, stores them in an array, and then prints them back. |
 
 ---
 
