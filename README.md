@@ -17,7 +17,7 @@ Index of all C programs
 | [GRATE4.C](https://github.com/WorkofAditya/C/blob/main/GRATE4.C) | Determines and prints the greatest among three numbers using nested if-else conditions. |
 | [GREAT3.C](https://github.com/WorkofAditya/C/blob/main/GREAT3.C) | Finds the greatest of four user-entered numbers using nested if statements. |
 | [GREAT4.C](https://github.com/WorkofAditya/C/blob/main/GREAT4.C) | Calculates simple interest based on principal, rate, and time entered by the user. |
-| [INTREST.C](https://github.com/WorkofAditya/C/blob/main/INTREST.C) | Performs and displays results of basic arithmetic operations: addition, subtraction, multiplication, and division. |
+| [INTREST.C](https://github.com/WorkofAditya/C/blob/main/INTREST.C) | Performs and displays results of basic arithmetic operations: addition, subtraction, multiplication, and division.|
 | [MATH.C](https://github.com/WorkofAditya/C/blob/main/MATH.C) | Compares two numbers using nested ternary operators and prints whether the first is greater, smaller, or equal. |
 | [OPERATOR2.C](https://github.com/WorkofAditya/C/blob/main/OPERATOR2.C) | Determines the greatest of three numbers using nested ternary operators based on user input. |
 | [OPERATOR3.C](https://github.com/WorkofAditya/C/blob/main/OPERATOR3.C) | Calculates and displays the result of raising one number to the power of another using `pow()`. |
@@ -34,8 +34,6 @@ Index of all C programs
 | [UDF2.C](https://github.com/WorkofAditya/C/blob/main/UDF2.C) | Performs arithmetic operations using user-defined functions, including addition, subtraction, and multiplication. |
 | [UDF3.C](https://github.com/WorkofAditya/C/blob/main/UDF3.C) | Performs arithmetic operations using user-defined functions, in shorter way. |
 | [ARRAY.C](https://github.com/WorkofAditya/C/blob/main/ARRAY.C) | Takes five numbers from the user, stores them in an array, and then prints them back. |
+| [ARRAY2.C](https://github.com/WorkofAditya/C/blob/main/ARRAY2.C) | Takes five numbers from the user, stores them in an array, and calculates their sum, average, minimum, and maximum values. |
 
 ---
-
-
-
