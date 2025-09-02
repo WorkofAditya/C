@@ -35,5 +35,5 @@ Index of all C programs
 | [UDF3.C](https://github.com/WorkofAditya/C/blob/main/UDF3.C) | Performs arithmetic operations using user-defined functions, in shorter way. |
 | [ARRAY.C](https://github.com/WorkofAditya/C/blob/main/ARRAY.C) | Takes five numbers from the user, stores them in an array, and then prints them back. |
 | [ARRAY2.C](https://github.com/WorkofAditya/C/blob/main/ARRAY2.C) | Takes five numbers from the user, stores them in an array, and calculates their sum, average, minimum, and maximum values. |
-
+| [ARRAY3.C](https://github.com/WorkofAditya/C/blob/main/ARRAY3.C) | Prints the elements of a 3x4 two-dimensional array using nested loops. |
 ---
