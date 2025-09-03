@@ -8,10 +8,12 @@ Author: Adityasinh Sodha
 
 void main()
 {
-    int a, b, c;
+    int a, b, c, x, y;
     clrscr();
 
-    printf("Enter first number: ");
+    printf("----USING 3RD VARIABLE----");
+
+    printf("\n Enter first number: ");
     scanf("%d", &a);
     printf("Enter second number: ");
     scanf("%d", &b);
@@ -20,8 +22,22 @@ void main()
     a = b;
     b = c;
 
-    printf("%d\n", a);
+    printf("\n%d\n", a);
     printf("%d\n", b);
+
+    printf("\n ----WITHOUT USING 3RD VARIABLE----");
+
+    printf("\n Enter first number: ");
+    scanf("%d", &x);
+    printf("Enter second number: ");
+    scanf("%d", &y);
+
+    x = x + y;
+    y = x - y;
+    x = x - y;
+
+    printf("\n%d",x);
+    printf("\n%d",y);
     getch();
 
 }
