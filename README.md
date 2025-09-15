@@ -36,11 +36,10 @@ Index of all C programs
 | [ARRAY.C](https://github.com/WorkofAditya/C/blob/main/ARRAY.C) | Takes five numbers from the user, stores them in an array, and then prints them back. |
 | [ARRAY2.C](https://github.com/WorkofAditya/C/blob/main/ARRAY2.C) | Takes five numbers from the user, stores them in an array, and calculates their sum, average, minimum, and maximum values. |
 | [ARRAY3.C](https://github.com/WorkofAditya/C/blob/main/ARRAY3.C) | Prints the elements of a 3x4 two-dimensional array using nested loops. |
-| [PALIN.C](https://github.com/WorkofAditya/C/blob/main/PALIN.C) |  |
-| [STRCHR.C](https://github.com/WorkofAditya/C/blob/main/STRCHR.C) |  |
-| [STRING.C](https://github.com/WorkofAditya/C/blob/main/STRING.C) |  |
-| [STRING2.C](https://github.com/WorkofAditya/C/blob/main/STRING2.C) |  |
-| [STRNCMP.C](https://github.com/WorkofAditya/C/blob/main/STRNCMP.C) |  |
-| [STRSPN.C](https://github.com/WorkofAditya/C/blob/main/STRSPN.C) |  |
-| [STRNCPY.C](https://github.com/WorkofAditya/C/blob/main/STRNCPY.C) |  |
+| [PALIN.C](https://github.com/WorkofAditya/C/blob/main/PALIN.C) | This program checks if inputed string is palindrome string on not. |
+| [STRING.C](https://github.com/WorkofAditya/C/blob/main/STRING.C) | This program prints a student name's first latter using string. |
+| [STRING2.C](https://github.com/WorkofAditya/C/blob/main/STRING2.C) | This program prints a student's name using string with white space. |
+| [STRNCMP.C](https://github.com/WorkofAditya/C/blob/main/STRNCMP.C) | This program checks if two strings are equal or not using STRNCMP function. |
+| [STRSPN.C](https://github.com/WorkofAditya/C/blob/main/STRSPN.C) | This program uses the strspn() function to find the length of the initial segment of the first string that contains only characters from the second string. |
+| [STRNCPY.C](https://github.com/WorkofAditya/C/blob/main/STRNCPY.C) | This program can copy the first string into the second, using STRNCPY function. |
 ---
