@@ -42,4 +42,8 @@ Index of all C programs
 | [STRNCMP.C](https://github.com/WorkofAditya/C/blob/main/STRNCMP.C) | This program checks if two strings are equal or not using STRNCMP function. |
 | [STRSPN.C](https://github.com/WorkofAditya/C/blob/main/STRSPN.C) | This program uses the strspn() function to find the length of the initial segment of the first string that contains only characters from the second string. |
 | [STRNCPY.C](https://github.com/WorkofAditya/C/blob/main/STRNCPY.C) | This program can copy the first string into the second, using STRNCPY function. |
+| [STUD.C](https://github.com/WorkofAditya/C/blob/main/STUD.C) | Using array and loop this program can calculate marks and % from user input |
+| [SWAP.C](https://github.com/WorkofAditya/C/blob/main/SWAP.C) | This program can swap two int values using UDF. |
+
+
 ---
