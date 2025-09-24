@@ -44,6 +44,6 @@ Index of all C programs
 | [STRNCPY.C](https://github.com/WorkofAditya/C/blob/main/STRNCPY.C) | This program can copy the first string into the second, using STRNCPY function. |
 | [STUD.C](https://github.com/WorkofAditya/C/blob/main/STUD.C) | Using array and loop this program can calculate marks and % from user input |
 | [SWAP.C](https://github.com/WorkofAditya/C/blob/main/SWAP.C) | This program can swap two int values using UDF. |
-
+| [ASTRICK.C](https://github.com/WorkofAditya/C/blob/main/ASTRICK.C) | This program prints an array using its address. |
 
 ---
