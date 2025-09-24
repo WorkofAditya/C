@@ -1,3 +1,8 @@
+/*
+This program can swap two int values using UDF.
+Date: 22nd Sep 2025
+Author: Adityasinh Sodha
+*/
 #include<stdio.h>
 #include<conio.h>
 
@@ -21,5 +26,3 @@ void swap(int*x,int*y)
     *x=*y;
     *y=z;
 }
-
-
