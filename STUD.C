@@ -1,3 +1,8 @@
+/*
+This program takes four subjects marks of three students as input and calculate total and % with array, loop and UDF.
+Date: 22nd Sep 2025
+Author: Adityasinh Sodha
+*/
 #include <stdio.h>
 #include <conio.h>
 
