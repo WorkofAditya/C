@@ -1,3 +1,8 @@
+/*
+This program prints array's values using pointer
+Date: 26th Sep 2025
+Author: Adityasinh Sodha
+*/
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -21,4 +26,5 @@ void main()
 	
 	}
 	getch();
+
 }
