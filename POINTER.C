@@ -1,3 +1,8 @@
+/*
+This program shows the usage of pointer.
+Date: 26th Sep 2025
+Author: Adityasinh Sodha
+*/
 #include<stdio.h>
 #include<conio.h>
 
@@ -17,5 +22,6 @@ void main()
 		printf("\n num %d = %d",count+1, *p[count]);
 	}
 	getch();
+
 
 }
