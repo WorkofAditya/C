@@ -45,5 +45,7 @@ Index of all C programs
 | [STUD.C](https://github.com/WorkofAditya/C/blob/main/STUD.C) | Using array and loop this program can calculate marks and % from user input |
 | [SWAP.C](https://github.com/WorkofAditya/C/blob/main/SWAP.C) | This program can swap two int values using UDF. |
 | [ASTRICK.C](https://github.com/WorkofAditya/C/blob/main/ASTRICK.C) | This program prints an array using its address. |
+| [ELEMENTS.C](https://github.com/WorkofAditya/C/blob/main/ELEMENTS.C) | This program prints array's values using pointer. |
+| [POINTER.C](https://github.com/WorkofAditya/C/blob/main/POINTER.C) | This program shows the usage of pointer. |
 
 ---
