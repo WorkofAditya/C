@@ -47,5 +47,6 @@ Index of all C programs
 | [ASTRICK.C](https://github.com/WorkofAditya/C/blob/main/ASTRICK.C) | This program prints an array using its address. |
 | [ELEMENTS.C](https://github.com/WorkofAditya/C/blob/main/ELEMENTS.C) | This program prints array's values using pointer. |
 | [POINTER.C](https://github.com/WorkofAditya/C/blob/main/POINTER.C) | This program shows the usage of pointer. |
+| [RECURSION.C](https://github.com/WorkofAditya/C/blob/main/RECURSION.C) | This program prints number series without loop and with RECURSION. |
 
 ---
