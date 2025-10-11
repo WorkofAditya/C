@@ -22,9 +22,9 @@ void main()
 	
 	for (x=0;x<=4;x++)
 	{
-		printf("\n %d",*(p+x));
-	
+		printf("\n %d",*p);
+		p++;
+
 	}
 	getch();
-
 }
