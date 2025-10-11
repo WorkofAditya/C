@@ -49,6 +49,9 @@ Index of all C programs
 | [POINTER.C](https://github.com/WorkofAditya/C/blob/main/POINTER.C) | This program shows the usage of pointer. |
 | [RECURSION.C](https://github.com/WorkofAditya/C/blob/main/RECURSION.C) | This program prints number series without loop and with RECURSION. |
 | [STRUCT.C](https://github.com/WorkofAditya/C/blob/main/STRUCT.C) | This program shows the usage of struct within pointer. |
-| [STRUCT1.C](https://github.com/WorkofAditya/C/blob/main/STRUCT1.C) | This progam shows the usage of struct |
+| [STRUCT1.C](https://github.com/WorkofAditya/C/blob/main/STRUCT1.C) | This program shows uses of **structure** to store and display integer, long integer and float using UDF. |
+| [UDFM2.C](https://github.com/WorkofAditya/C/blob/main/UDFM2.C) | Takes three numbers as input using (UDF) and then prints those numbers in the main function. |
+| [UDFM3.C](https://github.com/WorkofAditya/C/blob/main/UDFM3.C) | Takes three numbers as input using (UDF) and then prints those numbers in the main function. |
 
 ---
+
